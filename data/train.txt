@@ -1,0 +1,16 @@
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00004.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00010.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00014.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00015.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00028.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00047.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00053.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00088.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00111.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00119.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00157.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00165.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00261.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00263.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00266.jpg
+C:\Users\mac\Downloads\FLIR\FLIR_ADAS\training\images\FLIR_00288.jpg

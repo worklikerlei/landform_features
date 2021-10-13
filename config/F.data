@@ -1,0 +1,4 @@
+classes=1
+train=data/FLIR/train.txt
+valid=data/FLIR/valid.txt
+names=data/classes.names
